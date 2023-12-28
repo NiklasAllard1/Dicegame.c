@@ -1,2 +1,2 @@
 # Dicegame.c
-My first game using c-programming
+I created my first C-programming project—a basic dice game—while attending the Object-Oriented Programming class at KYH
